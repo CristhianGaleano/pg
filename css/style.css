@@ -1,0 +1,20 @@
+body {
+	background: url("../images/bg-01.jpg") no-repeat top center;
+}
+.navbar-graduados {
+	background-color: #075a3a;
+}
+.col-sponsors {
+	border-left: 2px dashed #017f4f;
+}
+.project-box {
+	width: 50%;
+	padding: 0px 10px 0px 0px;
+	margin-bottom: 10px;
+}
+.project-box-single {
+	width: 100%;
+	padding: 0px 10px 0px 0px;
+	margin-bottom: 10px;
+	
+}
